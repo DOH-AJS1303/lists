@@ -1,7 +1,9 @@
 # Reading  
 https://artificialintelligenceact.eu/  
+
  - https://technomancers.ai/eu-ai-act-to-target-us-open-source-software/  
  - https://openfuture.eu/blog/undermining-the-foundation-of-open-source-ai/  
+
 https://www.theverge.com/23725039/framework-laptop-13-2023-intel-review  
 https://www.thenewatlantis.com/publications/rational-magic  
 https://en.wikipedia.org/wiki/Hermes  
