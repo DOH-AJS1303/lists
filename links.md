@@ -1,11 +1,11 @@
 # Reading  
 
-https://a16z.com/2023/05/25/ai-canon/
-https://lightning.ai/pages/blog/how-to-finetune-gpt-like-large-language-models-on-a-custom-dataset/
-https://github.com/Lightning-AI/lit-parrot
-https://github.com/EleutherAI/pythia
-https://arxiv.org/pdf/2304.01373.pdf
-https://lightning.ai/docs/fabric/stable/
+https://a16z.com/2023/05/25/ai-canon/  
+https://lightning.ai/pages/blog/how-to-finetune-gpt-like-large-language-models-on-a-custom-dataset/  
+https://github.com/Lightning-AI/lit-parrot  
+https://github.com/EleutherAI/pythia  
+https://arxiv.org/pdf/2304.01373.pdf  
+https://lightning.ai/docs/fabric/stable/  
 https://artificialintelligenceact.eu/  
 
  - https://technomancers.ai/eu-ai-act-to-target-us-open-source-software/  
