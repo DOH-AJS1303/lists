@@ -1,5 +1,10 @@
 # Reading  
 
+https://albertcory50.substack.com/p/the-art-of-leadership-lessons-from  
+https://privsec.dev/posts/knowledge/floss-security  
+https://privsec.dev/posts/linux/desktop-linux-hardening/  
+https://www.neowin.net/news/edge-sends-images-you-view-online-to-microsoft-here-is-how-to-disable-that/  
+https://communitywiki.org/static/SmolNet.html  
 https://a16z.com/2023/05/25/ai-canon/  
 https://lightning.ai/pages/blog/how-to-finetune-gpt-like-large-language-models-on-a-custom-dataset/  
 https://github.com/Lightning-AI/lit-parrot  
