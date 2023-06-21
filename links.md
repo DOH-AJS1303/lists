@@ -37,5 +37,7 @@ https://www.beren.io/2023-04-11-Scaffolded-LLMs-natural-language-computers/
 https://arxiv.org/pdf/2304.05128.pdf  
 
 # Libraries  
+
+https://github.com/HermanMartinus/bearblog/  
 https://github.com/dbader/schedule  
 https://github.com/liiight/notifiers  
