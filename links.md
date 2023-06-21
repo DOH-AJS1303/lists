@@ -1,5 +1,13 @@
+# Pinned  
+
+https://surfingcomplexity.blog/2023/06/15/if-you-cant-tell-a-story-about-it-it-isnt-real/  
+
 # Reading  
 
+https://surfingcomplexity.blog/2023/06/15/if-you-cant-tell-a-story-about-it-it-isnt-real/  
+https://herman.bearblog.dev/a-case-for-toe-socks/  
+https://people.freebsd.org/~lstewart/articles/cpumemory.pdf  
+https://nautil.us/the-man-who-tried-to-redeem-the-world-with-logic-235253/  
 https://albertcory50.substack.com/p/the-art-of-leadership-lessons-from  
 https://privsec.dev/posts/knowledge/floss-security  
 https://privsec.dev/posts/linux/desktop-linux-hardening/  
