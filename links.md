@@ -4,6 +4,8 @@ https://surfingcomplexity.blog/2023/06/15/if-you-cant-tell-a-story-about-it-it-i
 
 # Reading  
 
+https://github.com/kiss-community/awesome-kiss  
+http://suckless.org/rocks/  
 https://surfingcomplexity.blog/2023/06/15/if-you-cant-tell-a-story-about-it-it-isnt-real/  
 https://herman.bearblog.dev/a-case-for-toe-socks/  
 https://people.freebsd.org/~lstewart/articles/cpumemory.pdf  
@@ -38,6 +40,7 @@ https://arxiv.org/pdf/2304.05128.pdf
 
 # Libraries  
 
+https://pypi.org/project/scalene/  
 https://github.com/HermanMartinus/bearblog/  
 https://github.com/dbader/schedule  
 https://github.com/liiight/notifiers  
