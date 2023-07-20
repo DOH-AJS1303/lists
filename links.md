@@ -4,6 +4,8 @@ https://surfingcomplexity.blog/2023/06/15/if-you-cant-tell-a-story-about-it-it-i
 
 # Reading  
 
+https://www.supervised.news/p/the-open-source-learning-curve-for  
+https://youtu.be/QCjjFqC-Ve8  
 https://github.com/kiss-community/awesome-kiss  
 http://suckless.org/rocks/  
 https://surfingcomplexity.blog/2023/06/15/if-you-cant-tell-a-story-about-it-it-isnt-real/  
